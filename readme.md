@@ -1,8 +1,8 @@
-# 🧪 Testes de API - Reqres
+# Testes de API - Reqres
 
 Este projeto consiste em uma simulação de testes de API REST utilizando a [API pública Reqres](https://reqres.in/), voltado para fins educacionais e prática de validações básicas com Postman e Newman.
 
-## ✅ Funcionalidades Testadas
+## Funcionalidades Testadas
 
 Foram realizadas simulações simples para os seguintes endpoints da API:
 
@@ -14,7 +14,7 @@ Foram realizadas simulações simples para os seguintes endpoints da API:
 - ✏️ **Atualização de usuário** (`PUT /users/8`) 
 - ❌ **Remoção de usuário** (`DELETE /users/8`) 
 
-## ⚠️ Limitações da API
+## Limitações da API
 
 A API Reqres é apenas uma simulação (mock), por isso:
 
